@@ -1,5 +1,3 @@
 # Un libro para el amor de mi vida
 
-Libro digital dedicado a Odalis.
-
-La página se publica con GitHub Pages.
+Libro digital dedicado a Odalis. Publicado con GitHub Pages.
